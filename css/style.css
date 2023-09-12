@@ -1,0 +1,194 @@
+.container{
+    width: 1380px;
+    margin: 0 auto;
+}
+
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+
+.main{
+    background: url('../img/MAIN.jpg') no-repeat center center / cover;
+}
+
+.main__wrap{
+    padding: 175px 0 336px 0;
+}
+
+.main__title{
+    color: #01996D;
+    width: 440px;
+    height: 148px;
+    font-size: 65px;
+}
+
+.main__text{
+    font-size: 25px;
+    color: #484848;
+    text-align: left;
+    width: 420px;
+    height: 123px;
+    top: 439px;
+}
+
+.main__btn{
+    font-size: 20px;
+    font-weight: 400;
+    color: #fff;
+    background: #01996D;
+    padding: 20px 50px;
+}
+
+.header{
+    background-color: white;
+}
+
+.header__wrap{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__menu{
+    display: flex;
+}
+
+.header__block{
+    display: flex;    
+    align-items: center;
+}
+
+
+.header__menu-item{
+    color: black;
+    font-size: 20px;
+    margin-right: 30px;
+    display: flex;
+}
+
+.header__link a{
+    color: black;
+    font-size: 20px;
+    margin-left: 30px;
+
+}
+
+.header__link_g a{
+    background-color: #01996D;
+    color: aliceblue;
+    padding: 5px 10px;
+    border-radius: 160px;
+}
+
+/* #video */
+
+.video{
+    background-color: #245852;
+    padding: 200px 0;
+}
+
+.video__wrap{
+    display: flex;
+    justify-content: space-between;
+}
+
+.video__container{
+    width: 1400px;
+    margin: 0 auto;
+    padding: 110px;
+}
+
+.video__title{
+    color: white;
+    font-size: 50px;
+    width: 580px;
+    height: 300px;
+}
+
+.video__text{
+    color: #FFFFFF;
+    font-size: 25px;
+    width: 550px;
+    height: 39px;
+}
+
+.video__btn{
+    color: #ffffff;
+    font-size: 20px;
+    width: 140px;
+    height: px;
+    background: #01996D;
+    padding: 20px 50px;
+}
+
+.video__pic img{
+    border-radius: 25px;
+}
+
+/*LAST*/
+
+
+.last__wrap{
+    display: flex;
+    justify-content: space-between;
+}
+
+.last__pretitle{
+    width: 136px;
+    height: 39px;
+    font-size: 25px;
+    color: black;
+}
+
+.last__title{
+   color: #01996D;
+   font-size: 50px;
+}
+
+.last__text{
+    color: black;
+    font-size: 20px;
+    display: block;
+    margin-bottom: 30px;
+}
+
+.last__btn{
+    width: 127px;
+    font-size: 20px;
+    color: white;
+    background-color: #01996D;
+    padding: 20px 50px;
+}
+
+.last__texts{
+    padding-left: 86px;
+}
+
+/*END*/
+
+.end__wrap{
+    display: flex;
+   
+}
+
+.end{
+    background-color: #245852;
+}
+
+.end__menu-item{
+    color: white;
+
+}
+
+.end__menu-item li{
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+
+
+
+
+
